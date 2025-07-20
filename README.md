@@ -21,6 +21,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 <td width="50%">
 
 **🏗️ Enterprise Architecture**
+- Traditional telecom and OpenRAN: Design, deploy and optimize network features
 - Microservices & Event-Driven Design
 - Cloud-Native Solutions (AWS, Azure, GCP)
 - Scalable Data Platforms
@@ -41,6 +42,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 <td width="50%">
 
 **🤖 AI/ML & Analytics**
+- Network Performance & Capacity Optimization with AI/ML analytics and Cybersecurity
 - Production ML Systems
 - LLM Integration & Fine-tuning
 - Real-time Analytics Pipelines
