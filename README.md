@@ -131,7 +131,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 - **🛡️ Security Excellence**: Implemented zero-trust architecture serving 50K+ users
 - **📊 Data-Driven Decisions**: Built analytics platforms processing 1B+ events daily
 - **🤝 Team Leadership**: Managed cross-functional teams of 20+ engineers across 5 time zones
-- **💡 Innovation**: 15+ patents pending in AI/ML and distributed systems
+- **💡 Innovation**: Drive technical innovation through enterprise architecture and emerging technologies
 
 ### 📚 Knowledge Sharing
 
@@ -146,12 +146,12 @@ Building enterprise-grade solutions that bridge business strategy with technical
 </details>
 
 <details>
-<summary><b>🌱 Open Source Contributions</b></summary>
+<summary><b>🌱 Technical Leadership</b></summary>
 
-- Active contributor to CNCF projects
-- Maintainer of enterprise security tools
-- Regular speaker at DevOps and security conferences
-- Mentor for aspiring TPMs and architects
+- Enterprise architecture design and implementation
+- Cross-functional team coordination and mentorship
+- Technical strategy development and execution
+- Best practices evangelism and knowledge transfer
 
 </details>
 
