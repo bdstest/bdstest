@@ -70,13 +70,21 @@ Building enterprise-grade solutions that bridge business strategy with technical
 
 </div>
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdstest&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdstest&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdstest&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bdstest&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdstest&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdstest&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)
 
 </div>
 
