@@ -31,7 +31,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 - DevSecOps Implementation
 - Zero Trust Architecture
 - SOC2, GDPR, HIPAA Compliance
-- Threat Modeling & Risk Management
+- Cybersecurity & Risk Management
 
 </td>
 </tr>
@@ -48,11 +48,11 @@ Building enterprise-grade solutions that bridge business strategy with technical
 <td width="50%">
 
 **📊 Program Management**
-- $18M+ Budget Oversight
+- $100K-$18M Budget Oversight
 - Cross-functional Team Leadership
 - Agile/SAFe Transformation
 - Stakeholder Alignment
-- Change Management & NPI Launch
+- Change Management & Risk Management
 - Large-scale Rollout & Release Planning
 
 </td>
@@ -66,7 +66,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 | Project | Impact | Technologies | Quick Start |
 |---------|--------|--------------|-------------|
 | 🧠 [**AI Knowledge Platform**](https://github.com/bdstest/ai-knowledge-platform) | 20% search improvement<br>25% MTTR reduction | FastAPI • Ollama • ChromaDB<br>PostgreSQL • React | `docker-compose up` |
-| ☁️ [**Cloud Cost Optimizer**](https://github.com/bdstest/cloud-cost-optimizer) | 35% cost reduction<br>$100K-$5M optimization | TimescaleDB • Prophet ML<br>React • Scikit-learn | `docker-compose up` |
+| ☁️ [**Cloud Cost Optimizer**](https://github.com/bdstest/cloud-cost-optimizer) | 18-27% cost reduction<br>$100K-$18M optimization | TimescaleDB • Prophet ML<br>React • Scikit-learn | `docker-compose up` |
 | 🛡️ [**DevSecOps Monitor**](https://github.com/bdstest/devsecops-monitor) | 40% MTTR improvement<br>Automated compliance | Wazuh • Suricata • ELK<br>Grafana • Python | `docker-compose up` |
 | 📦 [**Enterprise Inventory**](https://github.com/bdstest/enterprise-inventory) | 100K+ items<br>Real-time tracking | FastAPI • PostgreSQL<br>React • Redis | `docker-compose up` |
 
@@ -129,7 +129,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 
 ### 🏆 Professional Impact
 
-- **🚀 Digital Transformation**: Led enterprise-wide cloud migration reducing infrastructure costs by 35%
+- **🚀 Digital Transformation**: Led enterprise-wide cloud migration reducing infrastructure costs by 18-27%
 - **🛡️ Security Excellence**: Implemented zero-trust architecture serving 50K+ users
 - **📊 Data-Driven Decisions**: Built analytics platforms processing 1B+ events daily
 - **🤝 Team Leadership**: Managed cross-functional teams of 20+ engineers across 5 time zones
