@@ -48,7 +48,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 <td width="50%">
 
 **📊 Program Management**
-- $100K-$18M Budget Oversight
+- $100K-$5M Quarterly Budget Oversight
 - Cross-functional Team Leadership
 - Agile/SAFe Transformation
 - Stakeholder Alignment
@@ -66,7 +66,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 | Project | Impact | Technologies | Quick Start |
 |---------|--------|--------------|-------------|
 | 🧠 [**AI Knowledge Platform**](https://github.com/bdstest/ai-knowledge-platform) | 20% search improvement<br>25% MTTR reduction | FastAPI • Ollama • ChromaDB<br>PostgreSQL • React | `docker-compose up` |
-| ☁️ [**Cloud Cost Optimizer**](https://github.com/bdstest/cloud-cost-optimizer) | 18-27% cost reduction<br>$100K-$18M optimization | TimescaleDB • Prophet ML<br>React • Scikit-learn | `docker-compose up` |
+| ☁️ [**Cloud Cost Optimizer**](https://github.com/bdstest/cloud-cost-optimizer) | 35% cost reduction<br>$100K-$5M quarterly optimization | TimescaleDB • Prophet ML<br>React • Scikit-learn | `docker-compose up` |
 | 🛡️ [**DevSecOps Monitor**](https://github.com/bdstest/devsecops-monitor) | 40% MTTR improvement<br>Automated compliance | Wazuh • Suricata • ELK<br>Grafana • Python | `docker-compose up` |
 | 📦 [**Enterprise Inventory**](https://github.com/bdstest/enterprise-inventory) | 100K+ items<br>Real-time tracking | FastAPI • PostgreSQL<br>React • Redis | `docker-compose up` |
 | 📡 [**Telecom Network Wrangler**](https://github.com/bdstest/telecom-network-wrangler) | 91% SLA compliance<br>2.9 bps/Hz spectrum efficiency | 5G OpenRAN • ML/AI<br>TimescaleDB • Grafana | `docker-compose up` |
