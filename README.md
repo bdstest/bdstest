@@ -52,7 +52,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 <td width="50%">
 
 **📊 Program Management**
-- $100K-$5M Quarterly Budget Oversight
+- $100K-$18M Budget Oversight
 - Cross-functional Team Leadership
 - Agile/SAFe Transformation
 - Stakeholder Alignment
