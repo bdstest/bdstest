@@ -69,6 +69,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 | ☁️ [**Cloud Cost Optimizer**](https://github.com/bdstest/cloud-cost-optimizer) | 18-27% cost reduction<br>$100K-$18M optimization | TimescaleDB • Prophet ML<br>React • Scikit-learn | `docker-compose up` |
 | 🛡️ [**DevSecOps Monitor**](https://github.com/bdstest/devsecops-monitor) | 40% MTTR improvement<br>Automated compliance | Wazuh • Suricata • ELK<br>Grafana • Python | `docker-compose up` |
 | 📦 [**Enterprise Inventory**](https://github.com/bdstest/enterprise-inventory) | 100K+ items<br>Real-time tracking | FastAPI • PostgreSQL<br>React • Redis | `docker-compose up` |
+| 📡 [**Telecom Network Wrangler**](https://github.com/bdstest/telecom-network-wrangler) | 96% SLA compliance<br>62% spectrum efficiency | 5G OpenRAN • ML/AI<br>TimescaleDB • Grafana | `docker-compose up` |
 
 </div>
 
@@ -107,6 +108,12 @@ Building enterprise-grade solutions that bridge business strategy with technical
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
+**Telecom & Network**  
+![5G](https://img.shields.io/badge/5G_OpenRAN-00ADD8?style=flat-square&logo=5g&logoColor=white)
+![Network](https://img.shields.io/badge/Network_Slicing-FF6B6B?style=flat-square&logo=cisco&logoColor=white)
+![RF](https://img.shields.io/badge/RF_Optimization-4ECDC4?style=flat-square&logo=signal&logoColor=white)
+![LTE](https://img.shields.io/badge/LTE_4G-95E1D3?style=flat-square&logo=tower-cell&logoColor=white)
+
 </div>
 
 ### 📊 GitHub Analytics
@@ -134,6 +141,18 @@ Building enterprise-grade solutions that bridge business strategy with technical
 - **📊 Data-Driven Decisions**: Built analytics platforms processing 1B+ events daily
 - **🤝 Team Leadership**: Managed cross-functional teams of 20+ engineers across 5 time zones
 - **💡 Innovation**: Drive technical innovation through enterprise architecture and emerging technologies
+
+### 📡 Telecom & Network Expertise
+
+With the **[Telecom Network Wrangler](https://github.com/bdstest/telecom-network-wrangler)** platform, I demonstrate deep expertise in modern telecommunications infrastructure:
+
+- **5G Network Performance**: Real-time monitoring and optimization of 5G OpenRAN deployments with 96% SLA compliance
+- **Network Slicing**: Advanced orchestration algorithms for eMBB, URLLC, and mMTC slice management
+- **RF Optimization**: Machine learning-driven antenna parameter tuning achieving 62% spectrum efficiency improvement
+- **Multi-Generation Support**: Comprehensive network evolution from 2G through 5G with migration planning
+- **Carrier Aggregation**: Optimized multi-band carrier combinations for maximum throughput delivery
+
+This platform showcases my ability to handle complex telecom challenges including spectrum management, network performance monitoring, and AI-driven optimization for next-generation mobile networks.
 
 ### 📚 Knowledge Sharing
 
