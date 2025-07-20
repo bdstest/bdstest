@@ -3,7 +3,7 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/bdstest?style=for-the-badge&logo=github)](https://github.com/bdstest)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bdstest)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/b-prasad-ds)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:137255594+bdstest@users.noreply.github.com)
 
 </div>
