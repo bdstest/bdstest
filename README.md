@@ -50,6 +50,8 @@ Building enterprise-grade solutions that bridge business strategy with technical
 **📊 Program Management**
 - $100K-$5M+ Budget Oversight
 - Cross-functional Team Leadership
+- Agile/SAFe Transformation
+- Stakeholder Alignment
 - Change Management & NPI Launch
 - Large-scale Rollout & Release Planning
 
