@@ -75,6 +75,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 | 📦 [**Enterprise Inventory**](https://github.com/bdstest/enterprise-inventory) | 100K+ items<br>Real-time tracking | FastAPI • PostgreSQL<br>React • Redis | `docker-compose up` |
 | 📡 [**Telecom Network Wrangler**](https://github.com/bdstest/telecom-network-wrangler) | 91% SLA compliance<br>2.9 bps/Hz spectrum efficiency | 5G OpenRAN • ML/AI<br>TimescaleDB • Grafana | `docker-compose up` |
 | 🔄 [**ZohoSync**](https://github.com/bdstest/zohosync) | Secure sync client<br>Cross-platform support | Go • Fyne • OAuth2<br>SQLite • Linux | `make build` |
+| [**CDSI**](https://github.com/bdstest/cdsi-tools) | Compliance Data Systems Insights - Professional compliance tools |
 
 </div>
 
