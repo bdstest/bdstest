@@ -187,7 +187,7 @@ This platform showcases my ability to handle complex telecom challenges includin
 I'm passionate about solving complex technical challenges and building systems that make a difference. Whether you're looking to:
 
 - 🏢 **Transform your enterprise architecture**
-- 🔐 **Enhance security posture**  
+- 🔐 **Enhance security and regulatory posture**  
 - 💰 **Optimize cloud costs**
 - 🤖 **Implement AI/ML solutions**
 - 👥 **Build high-performing engineering teams**
