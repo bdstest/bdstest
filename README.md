@@ -12,7 +12,7 @@
 
 Building enterprise-grade solutions that bridge business strategy with technical excellence. Specializing in AI/ML integration, cloud optimization, and security-first architecture across diverse enterprise environments.
 
-**CPPR in 5xC's** - Commit. Push. Protect. Repeat in the uncharted realm of Cloud, Code, Calls, Charts & Chaos, a glasses-on TPM rides ahead—wrangling entropy so engineers can build, not babysit. Engineers can focus, and business can thrive.
+**CPPR in 5xC's** - Commit. Push. Protect. Repeat in the uncharted realm of Cloud, Code, Calls, Charts & Chaos, a glasses-on TPM rides ahead wrangling entropy so engineers can build, not babysit. Engineers can focus, and business can thrive.
 
 ### 🎯 Core Competencies
 
