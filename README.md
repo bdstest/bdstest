@@ -75,7 +75,7 @@ Building enterprise-grade solutions that bridge business strategy with technical
 | 📦 [**Enterprise Inventory**](https://github.com/bdstest/enterprise-inventory) | 100K+ items<br>Real-time tracking | FastAPI • PostgreSQL<br>React • Redis | `docker-compose up` |
 | 📡 [**Telecom Network Wrangler**](https://github.com/bdstest/telecom-network-wrangler) | 91% SLA compliance<br>2.9 bps/Hz spectrum efficiency | 5G OpenRAN • ML/AI<br>TimescaleDB • Grafana | `docker-compose up` |
 | 🔄 [**ZohoSync**](https://github.com/bdstest/zohosync) | Secure sync client<br>Cross-platform support | Go • Fyne • OAuth2<br>SQLite • Linux | `make build` |
-| 📊 [**CDSI**](https://github.com/bdstest/cdsi-tools) | Compliance Data Systems Insights - Professional compliance automation framework for systematic regulatory compliance | Python | `python tools/assessments/cdsi_maturity_assessment.py` |
+| 📊 [**CDSI**](https://github.com/bdstest/cdsi-tools) | Compliance Data Systems Insights<br>Professional compliance automation | Python | `python tools/assessments/cdsi_maturity_assessment.py` |
 
 </div>
 
@@ -126,17 +126,17 @@ Building enterprise-grade solutions that bridge business strategy with technical
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdstest&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)
+<!-- GitHub Stats — reads public + private contribution counts when viewer is logged in -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdstest&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bdstest&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<!-- Streak stats — uses demolab fork which is more stable than herokuapp -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=bdstest&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/bdstest)
 
 </div>
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdstest&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdstest&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)
 
 </div>
 
