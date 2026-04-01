@@ -165,7 +165,7 @@ This platform showcases my ability to handle complex telecom challenges includin
 <details>
 <summary><b>🎓 Technical Articles & Talks</b></summary>
 
-- **Scaling AI in Production** - Enterprise ML deployment patterns
+- **Scaling AI in Production** - Enterprise AI / ML deployment patterns
 - **Zero Trust Architecture** - Implementation guide for large organizations  
 - **Cloud Cost Optimization** - Strategies for multi-cloud environments
 - **DevSecOps Transformation** - Building security into CI/CD pipelines
